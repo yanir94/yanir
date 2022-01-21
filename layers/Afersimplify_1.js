@@ -1,0 +1,1 @@
+var json_Afersimplify_1 = {"type":"FeatureCollection","name":"Afersimplify_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
